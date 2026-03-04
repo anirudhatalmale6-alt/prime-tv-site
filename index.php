@@ -170,8 +170,14 @@ $waUrl = waLink($site['whatsapp'], $site['whatsapp_message']);
             .nav-links.mobile-open { display: flex; flex-direction: column; position: absolute; top: 100%; left: 0; right: 0; background: rgba(6,9,26,0.98); backdrop-filter: blur(20px); padding: 1.5rem 2rem 2rem; gap: 1rem; border-bottom: 1px solid rgba(233,30,140,0.1); animation: fadeInDown 0.3s ease; }
             .nav-links.mobile-open a { font-size: 1rem; padding: 0.5rem 0; }
             .nav-cta { text-align: center; display: block; }
-            .hero { padding: 7rem 1.5rem 3rem; min-height: auto; }
-            .hero-stats { gap: 1.5rem; }
+            .hero { padding: 5.5rem 1.25rem 2rem; min-height: auto; }
+            .hero-badge { margin-bottom: 1rem; font-size: 0.7rem; padding: 0.4rem 1rem; }
+            .hero h1 { margin-bottom: 0.3rem; }
+            .hero-subtitle { margin-bottom: 1rem; }
+            .hero-features { gap: 0.35rem; margin-bottom: 1.2rem; }
+            .hero-feature { font-size: 0.78rem; padding: 0.35rem 0.7rem; }
+            .hero-stats { gap: 1.5rem; margin-bottom: 1.5rem; }
+            .hero-cta { padding: 0.85rem 2rem; font-size: 1rem; }
             .compare-grid { grid-template-columns: 1fr; gap: 1.25rem; }
             .compare-col { padding: 1.5rem; }
             .pricing-grid { grid-template-columns: 1fr; max-width: 400px; margin: 0 auto; }
@@ -179,11 +185,17 @@ $waUrl = waLink($site['whatsapp'], $site['whatsapp_message']);
             .whatsapp-float { bottom: 16px; right: 16px; width: 56px; height: 56px; }
         }
         @media (max-width: 480px) {
-            .hero h1 { font-size: 2.5rem; }
-            .hero-subtitle { font-size: 1.1rem; letter-spacing: 2px; }
-            .hero-features { gap: 0.5rem; }
-            .hero-feature { font-size: 0.8rem; padding: 0.5rem 0.8rem; }
-            .hero-stats { flex-direction: column; gap: 1rem; }
+            .hero { padding: 5rem 1rem 1.5rem; }
+            .hero-badge { margin-bottom: 0.75rem; font-size: 0.65rem; }
+            .hero h1 { font-size: 2.3rem; margin-bottom: 0.2rem; }
+            .hero-subtitle { font-size: 1rem; letter-spacing: 2px; margin-bottom: 0.75rem; }
+            .hero-features { gap: 0.3rem; margin-bottom: 1rem; }
+            .hero-feature { font-size: 0.72rem; padding: 0.3rem 0.6rem; }
+            .hero-feature .icon { font-size: 0.9rem; }
+            .hero-stats { flex-direction: row; gap: 1rem; margin-bottom: 1.2rem; }
+            .hero-stat-number { font-size: 1.6rem; }
+            .hero-stat-label { font-size: 0.6rem; }
+            .hero-cta { padding: 0.75rem 1.8rem; font-size: 0.9rem; }
         }
     </style>
 </head>
