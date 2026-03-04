@@ -1,0 +1,132 @@
+{
+    "site": {
+        "name": "PRIME TV",
+        "tagline": "O Melhor IPTV do Brasil",
+        "whatsapp": "5571920090133",
+        "whatsapp_message": "Olá! Quero saber mais sobre os planos PRIME TV",
+        "hero_headline": "TV, FILMES E SÉRIES",
+        "hero_highlight": "SEM TRAVAR",
+        "hero_subtitle": "O MELHOR IPTV DO BRASIL",
+        "hero_badge": "Streaming #1 do Brasil"
+    },
+    "stats": {
+        "channels": "2.000+",
+        "channels_label": "Canais ao Vivo",
+        "movies": "30.000+",
+        "movies_label": "Filmes",
+        "series": "15.000+",
+        "series_label": "Séries"
+    },
+    "features": [
+        {"icon": "📺", "text": "HD e 4K"},
+        {"icon": "⚡", "text": "Sem travamentos"},
+        {"icon": "📱", "text": "Todos os dispositivos"},
+        {"icon": "🔄", "text": "Atualizações diárias"},
+        {"icon": "💬", "text": "Suporte via WhatsApp"}
+    ],
+    "plans": [
+        {
+            "name": "MENSAL",
+            "price": "29,90",
+            "price_int": "29",
+            "price_dec": ",90",
+            "period": "/mês",
+            "per_month": "",
+            "economy": "",
+            "featured": false,
+            "whatsapp_text": "Olá! Quero o plano MENSAL PRIME TV - R$29,90"
+        },
+        {
+            "name": "3 MESES",
+            "price": "84,50",
+            "price_int": "84",
+            "price_dec": ",50",
+            "period": "R$ 28,17/mês",
+            "per_month": "R$ 28,17/mês",
+            "economy": "Economize R$ 5,20",
+            "featured": false,
+            "whatsapp_text": "Olá! Quero o plano 3 MESES PRIME TV - R$84,50"
+        },
+        {
+            "name": "6 MESES",
+            "price": "149,90",
+            "price_int": "149",
+            "price_dec": ",90",
+            "period": "R$ 24,98/mês",
+            "per_month": "R$ 24,98/mês",
+            "economy": "Economize R$ 29,50",
+            "featured": true,
+            "whatsapp_text": "Olá! Quero o plano 6 MESES PRIME TV - R$149,90"
+        },
+        {
+            "name": "12 MESES",
+            "price": "264,50",
+            "price_int": "264",
+            "price_dec": ",50",
+            "period": "R$ 22,04/mês",
+            "per_month": "R$ 22,04/mês",
+            "economy": "Economize R$ 94,30",
+            "featured": false,
+            "whatsapp_text": "Olá! Quero o plano 12 MESES PRIME TV - R$264,50"
+        }
+    ],
+    "plan_features": [
+        "+2.000 canais ao vivo",
+        "+30.000 filmes",
+        "+15.000 séries",
+        "Qualidade HD e 4K",
+        "Suporte via WhatsApp"
+    ],
+    "faq": [
+        {
+            "question": "O que é o PRIME TV?",
+            "answer": "O PRIME TV é um serviço de IPTV premium que oferece mais de 2.000 canais ao vivo, 30.000 filmes e 15.000 séries em qualidade HD e 4K. Tudo isso com atualizações diárias e suporte dedicado via WhatsApp."
+        },
+        {
+            "question": "Em quais aparelhos funciona?",
+            "answer": "Funciona em Smart TV (Samsung, LG, etc.), TV Box, Amazon Fire Stick, celulares Android e iPhone, tablets, computadores e notebooks. Praticamente qualquer dispositivo com internet!"
+        },
+        {
+            "question": "Tem canais ao vivo?",
+            "answer": "Sim! São mais de 2.000 canais ao vivo incluindo esportes, filmes, notícias, infantil, documentários e muito mais. Todos os principais canais do Brasil e internacionais."
+        },
+        {
+            "question": "Precisa de internet muito rápida?",
+            "answer": "Não! Com uma internet de pelo menos 10 Mbps você já consegue assistir com qualidade. Para 4K, recomendamos 25 Mbps. Funciona também com dados móveis (4G/5G)."
+        },
+        {
+            "question": "Como funciona o pagamento?",
+            "answer": "O pagamento é feito diretamente pelo WhatsApp. Aceitamos Pix, cartão e transferência bancária. Após a confirmação, você recebe o acesso em poucos minutos!"
+        },
+        {
+            "question": "Posso testar antes de assinar?",
+            "answer": "Claro! Fale com a gente pelo WhatsApp e solicite seu teste gratuito. Queremos que você conheça a qualidade do nosso serviço antes de contratar."
+        },
+        {
+            "question": "O conteúdo é atualizado?",
+            "answer": "Sim! Nosso catálogo é atualizado diariamente com os últimos lançamentos de filmes e séries. Novos canais também são adicionados regularmente para garantir a melhor experiência."
+        }
+    ],
+    "comparison": {
+        "others": [
+            "Travamentos constantes e quedas de sinal",
+            "Suporte inexistente ou demorado",
+            "Lista desatualizada, faltam canais e filmes",
+            "Qualidade baixa, sem opção de HD/4K",
+            "Não funciona em todos os aparelhos",
+            "Preços altos sem garantia de qualidade"
+        ],
+        "us": [
+            "Servidor dedicado, estabilidade garantida 24h",
+            "Suporte rápido via WhatsApp, sempre disponível",
+            "Conteúdo atualizado diariamente com lançamentos",
+            "Qualidade HD e 4K em todos os canais e filmes",
+            "Funciona em Smart TV, celular, tablet e computador",
+            "Melhor custo-benefício do mercado"
+        ]
+    },
+    "admin": {
+        "username": "admin",
+        "password": "$2y$10$YWRtaW4xMjM0NTY3ODkwMexTMHr3gW0bL5FzVjMfQzN1dWxF.mBSK"
+    }
+}
